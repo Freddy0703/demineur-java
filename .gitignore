@@ -1,0 +1,17 @@
+# Seuls les sources Java et les documents du projet sont suivis.
+/*
+!/src/
+!/pom.xml
+!/README.md
+!/REGLES.md
+!/.gitignore
+
+# Fichiers generes ou locaux, meme dans les sources.
+*.class
+*.log
+*.csv
+*.mp4
+*.png
+*.pdf
+**/.idea/
+**/target/
