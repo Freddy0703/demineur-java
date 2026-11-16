@@ -6,9 +6,9 @@ Un démineur avec une interface graphique Swing, quatre niveaux de difficulté e
 
 J’ai réalisé ce projet avec Codex, l’assistant de programmation d’OpenAI. Notre travail s’est réparti entre la conception du jeu et son implémentation.
 
-Pour la conception, j’ai défini le fonctionnement attendu, les règles et les fonctionnalités. J’ai notamment précisé le comportement des cases, l’ouverture en chaîne, la protection des drapeaux, les conditions de victoire et la place du score. J’ai aussi demandé l’interface graphique, le menu et le bouton pour recommencer. Ces choix ont orienté l’organisation du projet au fil des échanges.
+J’ai défini l’architecture du projet, les classes et les méthodes à utiliser, ainsi que le fonctionnement attendu du jeu. J’ai notamment précisé le comportement des cases, l’ouverture en chaîne, la protection des drapeaux, les conditions de victoire et la place du score. J’ai aussi demandé l’interface graphique, le menu et le bouton pour recommencer.
 
-J’ai confié à Codex la rédaction du code Java, l’interface Swing et la mise en œuvre technique. Codex a traduit mes demandes en classes et en méthodes, proposé leur organisation concrète et écrit les vérifications automatiques. Les choix de conception ont été discutés et ajustés ensemble à partir de mes retours.
+J’ai confié à Codex la rédaction du code Java, la réalisation de l’interface Swing et la mise en œuvre technique de ces choix. Codex a implémenté les classes et les méthodes à partir de mes indications et écrit les vérifications automatiques. Nous avons ensuite ajusté le projet au fil de nos échanges et de mes retours.
 
 Ce dépôt présente le résultat de cette collaboration et permet de consulter le code, de lancer le jeu et d’exécuter ses vérifications.
 
